@@ -1,0 +1,8 @@
+train: ../dataset_without_Probe/images/train/
+val: ../dataset_without_Probe/images/validation/
+
+# number of classes
+nc: 3
+
+# class names
+names: ['round', 'spindle', 'polygonal']

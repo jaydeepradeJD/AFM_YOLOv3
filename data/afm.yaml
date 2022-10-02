@@ -1,0 +1,8 @@
+train: ../dataset/images/train/
+val: ../dataset/images/validation/
+
+# number of classes
+nc: 4
+
+# class names
+names: ['round', 'spindle', 'polygonal', 'probe']
